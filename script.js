@@ -24,10 +24,14 @@ document.addEventListener('DOMContentLoaded', function () {
         }
         if (months < 0) { months += 12; years--; }
 
-        countdownElement.innerHTML = `${years}y ${months}m ${days}d <br> ${hours}h ${minutes}m ${seconds}s`;
+        if (countdownElement) {
+            countdownElement.innerHTML = `${years}y ${months}m ${days}d <br> ${hours}h ${minutes}m ${seconds}s`;
+        }
     }
-    setInterval(updateAge, 1000);
-    updateAge();
+    if (countdownElement) {
+        setInterval(updateAge, 1000);
+        updateAge();
+    }
 
     // --- Initialize AOS (Animate on Scroll) ---
     AOS.init({
