@@ -1,53 +1,50 @@
-# 🎂 Birthday Wish Website Template
+# 🎂 Satavisha's 20th Birthday Website 💖
 
-A creative and heartfelt way to wish someone a happy birthday — through a personalized website!  
-Originally created for someone special, now open for everyone to use and share 💖  
+A heartfelt and personalized birthday website created to celebrate **Satavisha's 20th Birthday**.
+Made with love to turn precious memories into a beautiful digital surprise. ✨
 
 ---
-## 🌐 Live Demo  
-🎉 **[https://happybirthday-template.netlify.app/](https://happybirthday-template.netlify.app/)**
 
-Fork it, customize it, and create a unique birthday experience for your loved ones 💝  
+## 🌐 Live Demo
+
+https://yojitroy.github.io/Happy_Birthday_Satavisha/
+
+A small gift filled with memories, smiles, and love—made especially for Satavisha. 💝
+
 ---
 
 ## 🌟 Overview
 
-This website lets you craft a **beautiful digital birthday surprise** for your loved ones.  
-You can add photos, videos, messages, and memories — all in one elegant, scroll-based layout.  
+This website is a personalized digital birthday surprise created to celebrate **Satavisha's 20th Birthday**.
+
+It brings together photos, videos, heartfelt messages, cherished memories, and everything that makes her special in one elegant, scroll-based experience.
 
 ---
 
 ## ✨ Features
 
-- 🎬 **Hero Section** – Add a stunning **photo** or **video** of the birthday person with their name and background music.  
-- 💌 **Message Section** – Write a sweet or funny **birthday message** just for them.  
-- 📖 **Story Section** – Tell the story of your bond — how you met, favorite memories, or funny moments.  
-- 🏅 **Hall of Fame Section** – Highlight everything they **love** — from hobbies to food to movies.  
-- 🖼️ **Gallery Section** – Showcase a collection of memorable **photos** or collages.  
+* 🎬 **Hero Section** – A beautiful photo or video with her name and background music.
+* 💌 **Message Section** – A heartfelt birthday message written especially for her.
+* 📖 **Story Section** – A journey through your memories, from the day you met to your favorite moments together.
+* 🏅 **Hall of Fame Section** – A collection of all the things she loves—favorite food, hobbies, movies, music, and more.
+* 🖼️ **Gallery Section** – A gallery filled with unforgettable moments and beautiful memories.
 
 ---
 
-## ⚙️ How to Use
+## 💌 Message from Creator
 
-1. **Fork** or **Download** this repository.  
-2. Open the project folder and edit the content in the HTML and JSS file and add photos of your choice
-3. Deploy it using **Vercel**, **Netlify**, or **GitHub Pages**.
----
+Hi Satavisha, 👋
 
-## Message from Creator
-Hi there! 👋
+Happy 20th Birthday! 🎉
 
-If you're reading this, chances are you're creating something special for someone you care about. A small surprise like this can make a birthday even more memorable, and I'm really glad this template could be part of that moment.
+This website is a small gift made just for you. Every photo, message, and memory here is a reminder of the wonderful moments we've shared and the countless more waiting ahead.
 
-This birthday website template was made to help you celebrate your loved ones in a unique way. All you need to do is make a few simple changes in the code and add photos of the person you're celebrating. Customize it with your own message, memories, or pictures to make it truly personal.
+I hope this little surprise brings a smile to your face and makes your special day even more memorable. You deserve all the happiness, love, laughter, and success the world has to offer.
 
-If you run into any issues while setting it up, or if you need a little help making it perfect, feel free to reach out. I’d be happy to help.
+Thank you for being such an amazing person. Here's to celebrating you today and creating even more unforgettable memories together.
 
-Feel free to contact me anytime.
+Wishing you the happiest 20th birthday! ❤️
 
-Regards,<br>
-Harman<br>
+With love,
 
-
----
-
+**Yojit Roy**
